@@ -1,0 +1,17 @@
+{
+  "name": "mysystem",
+  "title": "My System Name",
+  "description": "New system description.",
+  "author": "Your Name",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.7.9",
+  "esmodules": ["modules/mysystem.js"],
+  "styles": ["styles/system.css"],
+  "languages": [{"lang": "en",
+                 "name": "English",
+                 "path": "languages/en.json"}],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

@@ -1,0 +1,15 @@
+{
+  "Actor": {
+    "types" : ["character"],
+    "character": {
+      "characterProperty": "A Value!"
+    }
+  },
+  "Item": {
+    "types": ["thing"],
+    "thing": {
+      "isShiny": false,
+      "quality": "average"
+    }
+  }
+}
